@@ -1,0 +1,46 @@
+body {
+  background-color: orchid;
+  padding-top: 3.5rem;
+}
+
+img{
+	border: 2px dotted violet;
+	border-radius: 4px;
+	padding: 2px;
+}
+
+h1{
+	font-size:4.5rem;
+	font-weight:300;
+	line-height:1.2;
+	color: violet;	
+	text-transform: uppercase;
+
+}
+
+h3{
+	color: slategray;
+	text-transform: uppercase;
+}
+
+div{
+    letter-spacing: 3px; 
+    color: silver;
+    
+}
+
+p.a{
+	color:violet;
+}
+
+a{
+	color: violet;
+}
+
+a:hover{
+	color: pink;
+}
+
+
+
+
